@@ -102,6 +102,13 @@ div.stButton > button {background: #0F5C4D; color: #ffffff; font-weight: 700;
        border: 0; border-radius: 12px; padding: .65rem 1.6rem;
        box-shadow: 0 4px 12px rgba(15,92,77,.3);}
 div.stButton > button:hover {background: #1F8A70; color: #ffffff;}
+.stApp, .stApp p, .stApp li, .stApp span, .stApp label,
+.stApp [data-testid="stMarkdownContainer"] {color: #111111;}
+.hero h1 {color: #ffffff !important;}
+.hero p {color: #E3F4EE !important;}
+.hero .tag {color: #F5D98B !important;}
+h2, h3 {color: #0F5C4D !important;}
+div.stButton > button p {color: #ffffff !important;}
 </style>
 <div class="hero">
   <div class="tag">Know your rights</div>
