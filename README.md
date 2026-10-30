@@ -9,7 +9,7 @@ Hakk is a contract reader for migrant workers in the UAE. A worker pastes in the
 ## 🚀 Try it
 
 - **Live demo:** https://h6mbobcpadamqvxnnxfgeq.streamlit.app/
-- **Demo video:** [Watch on YouTube](YOUR-YOUTUBE-LINK)
+- **Demo video:** https://youtu.be/_WuRawBHZSk?feature=shared
 - **Source code:** https://github.com/asnahar1s/-Hakk---your-right-
 
 **Want to test it quickly?** Open the live demo, choose a language, and paste this sample text:
