@@ -10,7 +10,7 @@ Hakk is a contract reader for migrant workers in the UAE. A worker pastes in the
 
 - **Live demo:** https://h6mbobcpadamqvxnnxfgeq.streamlit.app/
 - **Demo video:** [Watch on YouTube](YOUR-YOUTUBE-LINK)
-- **Source code:** [GitHub repository]([YOUR-GITHUB-REPO-LINK](https://github.com/asnahar1s/-Hakk---your-right-))
+- **Source code:** [GitHub repository]((https://github.com/asnahar1s/-Hakk---your-right-))
 
 **Want to test it quickly?** Open the live demo, choose a language, and paste this sample text:
 
