@@ -33,6 +33,12 @@ Many migrant workers in the Gulf sign contracts they cannot fully read. Illegal 
 - **Questions to ask your employer** before signing
 - **Help contact:** MOHRE website and call centre
 
+## Screenshots 
+<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/df80570d-7366-4474-9d5e-8ecaec55dbd9" />
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/14babf64-59e7-45a1-909b-053022a96287" />
+
+
+
 ## What it checks
 
 The rules come from Federal Decree-Law No. 33 of 2021 (UAE labour law):
