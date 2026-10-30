@@ -1,1 +1,1 @@
-# -Hakk---your-right-
+# حق (Hakk- "your right"
